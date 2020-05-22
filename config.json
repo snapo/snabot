@@ -1,0 +1,15 @@
+{
+"test" : 1,
+"id" : "XXXX",
+"secret" : "XXX",
+"server" : "wss://www.deribit.com/ws/api/v2",
+"idtest" : "XXX",
+"secrettest" : "xxx",
+"servertest" : "wss://test.deribit.com/ws/api/v2",
+"instruments" : ["BTC"],
+"botname" : "SnaBot",
+"version" : "16.0.8",
+"log" : 0,
+"trade" : 1,
+"nonce" : 123456789
+}
